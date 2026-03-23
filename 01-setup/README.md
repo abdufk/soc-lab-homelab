@@ -1,0 +1,1 @@
+# Setup — Configuración del entorno
