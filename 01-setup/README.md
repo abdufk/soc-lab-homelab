@@ -23,4 +23,4 @@ Ping entre Kali y Wazuh-Server: ✅ 0% packet loss
 <img width="623" height="267" alt="{629B4457-6AAD-4D83-8844-25A35EA0FBD8}" src="https://github.com/user-attachments/assets/6e89f50d-5071-443a-b5d1-18ee9d7f0568" />
 <img width="848" height="237" alt="{2B00E905-AA4C-4DBD-A9DA-98D0F8E6CFFB}" src="https://github.com/user-attachments/assets/edbd43ee-3fea-4803-970a-f14c63914d4c" />
 <img width="540" height="203" alt="{62E625EB-4A09-495B-89C0-B8EF3FAF5584}" src="https://github.com/user-attachments/assets/9d511980-df5b-4af5-adf1-77de585d17b8" />
-<img width="1915" height="982" alt="image" src="https://github.com/user-attachments/assets/5d134362-2b8c-493f-bece-502355d26507" />
+
