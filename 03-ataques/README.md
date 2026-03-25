@@ -4,3 +4,5 @@ Scan de puertos desde kali a Metasploitable
 <img width="652" height="857" alt="{889B62A6-D89F-4304-92F4-EA567F9E3E63}" src="https://github.com/user-attachments/assets/dcf82370-e77f-4cd2-9fe0-f9d5c9bba130" />
 <img width="679" height="503" alt="{9875DB7C-7FD2-4903-B9DB-2B15EA91A2B8}" src="https://github.com/user-attachments/assets/27316abe-f17a-437a-b8c5-9b0cb31da684" />
 <img width="649" height="204" alt="{FD3EFB25-8A01-49C0-BBDF-3605974CEF09}" src="https://github.com/user-attachments/assets/34946721-86ea-4a1a-bede-a679189f01d3" />
+<img width="1914" height="757" alt="{B2DDB899-9111-4D2D-86F7-AFE1E2933CA2}" src="https://github.com/user-attachments/assets/a0471112-e37c-4cf4-a366-1a3beda91257" />
+
