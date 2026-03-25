@@ -23,6 +23,8 @@ Red NAT personalizada creada con VBoxManage para aislar el lab del resto de la r
 Ping entre Kali y Wazuh-Server: ✅ 0% packet loss  
 Ping entre Kali y Metasploitable: ✅ 0% packet loss
 
+---
+
 ## Capturas
 
 **Creación de SOC-LAB-NET:**
