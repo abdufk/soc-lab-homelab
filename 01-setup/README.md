@@ -24,7 +24,6 @@ Ping entre Kali y Wazuh-Server: ✅ 0% packet loss
 Ping entre Kali y Metasploitable: ✅ 0% packet loss
 
 ## Capturas
-## Capturas
 
 **Creación de SOC-LAB-NET:**
 
