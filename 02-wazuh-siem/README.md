@@ -22,7 +22,7 @@ del agente en Kali Linux.
 - 🟠 12 High
 - 🔵 13 Medium
 
----
+--
 
 ## Capturas
 
