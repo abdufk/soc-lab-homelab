@@ -48,7 +48,7 @@ de infraestructuras críticas.
 | Metasploitable 2 | Víctima IT vulnerable | Target |
 | Wazuh | SIEM — correlación y alertas | Defensive |
 | Nmap | Escaneo y reconocimiento | Recon |
-| Hydra | Fuerza bruta SSH | Attack |
+| Medusa | Fuerza bruta SSH | Attack |
 | Metasploit | Explotación controlada | Exploit |
 | PyModbus | Simulación PLC/OT | Industrial |
 | Wireshark | Análisis de tráfico | Forensics |
@@ -71,12 +71,12 @@ de infraestructuras críticas.
 
 - [x] Kali Linux configurado
 - [x] Ubuntu Server (Wazuh) configurado
-- [ ] Metasploitable 2 importado
-- [ ] Red NAT configurada entre VMs
-- [ ] Wazuh instalado y operativo
-- [ ] Primer ataque simulado y detectado
+- [x] Metasploitable 2 importado
+- [x] Red NAT configurada entre VMs
+- [x] Wazuh instalado y operativo
+- [x] Primer ataque simulado y detectado
 - [ ] Entorno OT con Modbus funcional
-- [ ] Informe de incidente documentado
+- [x] Informe de incidente documentado
 
 ---
 
