@@ -1,4 +1,3 @@
-# Simulación OT — Protocolo Modbus
 # 04 — Simulación OT — Protocolo Modbus
 
 ## Estado: En desarrollo 🔄
