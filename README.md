@@ -6,15 +6,14 @@ detección de amenazas y respuesta a incidentes.
 ---
 
 ## Arquitectura
-[Kali Linux - 10.0.2.15] ── Atacante
-│
-[Red NAT - 10.0.2.0/24]
-│
-──────┴──────────────
-│                   │
-[Metasploitable 2]  [Ubuntu Server]
-10.0.2.5            10.0.2.4
-Víctima IT          Wazuh SIEM
+
+| Máquina | IP | Rol |
+|---|---|---|
+| Kali Linux | 10.0.2.15 | Atacante |
+| Ubuntu Server | 10.0.2.4 | Wazuh SIEM |
+| Metasploitable 2 | 10.0.2.5 | Víctima IT |
+
+Red NAT aislada: `10.0.2.0/24`
 
 ---
 
