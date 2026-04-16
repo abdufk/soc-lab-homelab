@@ -10,8 +10,8 @@
 
 ## Descripción
 
-Ataque de fuerza bruta contra el servicio SSH del host `10.0.2.5` 
-(Metasploitable2) originado desde `10.0.2.15` (kali-atacante).
+Ataque de fuerza bruta contra el servicio SSH del host 10.0.2.5 
+(Metasploitable2) originado desde 10.0.2.15 (kali-atacante).
 La herramienta utilizada fue Medusa con el diccionario rockyou.txt.
 
 ---
