@@ -47,7 +47,7 @@ La herramienta utilizada fue Medusa con el diccionario rockyou.txt.
 
 ## Acciones de contención
 
-- Identificada IP atacante `10.0.2.15`
+- Identificada IP atacante 10.0.2.15
 - En entorno real: bloqueo inmediato de IP en firewall
 - En entorno real: deshabilitar autenticación por contraseña en SSH, usar claves
 
