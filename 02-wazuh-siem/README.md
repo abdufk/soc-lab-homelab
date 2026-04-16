@@ -15,12 +15,12 @@ del agente en Kali Linux.
 ## Agente conectado
 | Nombre | IP | OS | Estado |
 |---|---|---|---|
-| kiali-atacante | 10.0.2.15 | Kali GNU/Linux 2026.1 | ✅ Active |
+| kiali-atacante | 10.0.2.15 | Kali GNU/Linux 2026.1 | Active |
 
 ## Vulnerabilidades detectadas automáticamente
-- 🔴 1 Critical — CVE-2025-43859
-- 🟠 12 High
-- 🔵 13 Medium
+- 1 Critical — CVE-2025-43859
+- 12 High
+- 13 Medium
 
 ---
 
