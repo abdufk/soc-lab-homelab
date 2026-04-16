@@ -1,6 +1,6 @@
 # 04 — Simulación OT — Protocolo Modbus
 
-## Estado: En desarrollo 🔄
+## Estado: En proceso
 
 ## Objetivo
 Simular un entorno industrial con un PLC virtual usando PyModbus.
