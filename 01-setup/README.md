@@ -20,8 +20,8 @@ Red NAT personalizada creada con VBoxManage para aislar el lab del resto de la r
 - Herramienta: `VBoxManage natnetwork add`
 
 ## Verificación de conectividad
-Ping entre Kali y Wazuh-Server: ✅ 0% packet loss  
-Ping entre Kali y Metasploitable: ✅ 0% packet loss
+Ping entre Kali y Wazuh-Server:  0% packet loss  
+Ping entre Kali y Metasploitable:  0% packet loss
 
 ---
 
