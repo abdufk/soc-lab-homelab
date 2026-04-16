@@ -1,9 +1,5 @@
 # SOC Home Lab — IT/OT Security
 
-![Status](https://img.shields.io/badge/Status-En%20progreso-yellow)
-![SIEM](https://img.shields.io/badge/SIEM-Wazuh-blue)
-![Attacker](https://img.shields.io/badge/Attacker-Kali%20Linux-red)
-
 Proyecto personal de ciberseguridad donde simulo un entorno IT/OT para practicar
 detección de amenazas y respuesta a incidentes.
 
